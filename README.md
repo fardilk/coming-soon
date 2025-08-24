@@ -28,3 +28,6 @@ Notes
 Next steps (optional):
 - Hook up a mail capture backend or third-party service for the email input.
 - Add animations, icons, or brand assets.
+
+# coming-soon
+coming-soon option1
